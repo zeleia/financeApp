@@ -2,9 +2,9 @@
 Complete these steps to locally set up the application on your computer.
 
 ## Requirements
-- composer 2.5.* or above
-- php 8.* or above
-- nodejs 22 or above
+- `composer 2.5.*` or above
+- `php 8.*` or above
+- `nodejs 22.*` or above
 
 ## Backend
 Open a terminal in the project root and type `cd ./laravel-backend` to enter the backend folder.
